@@ -1,0 +1,83 @@
+.logo{
+    width: 200px;
+    height: 150px;
+}
+.main_heading{
+    text-align: center;
+    margin-top: 50px;
+}
+.nav_div{
+    background-color:  #45b39d !important;
+}
+.icons{
+    height: 50px;
+    width: 60px;
+}
+.nav1{
+    margin-left: 20px;
+    text-decoration: none !important;
+    
+}
+.doing_div{
+    margin-top: 10px;
+    border: 1px solid white;
+    box-shadow: 2px 2px 2px 2px #888888;
+    padding: 10px;
+}
+.doing_div:hover{
+    background-color: #45b39d !important;
+}
+.doing_lbl{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: #45b39d;
+    text-decoration-line: underline;
+}
+.doing_div:hover>label{
+    color: white;
+}
+.doing_img{
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.lbl_teacher{
+    color: #45b39d;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.bg-modal{
+    width: 50%;
+    height: 60%;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-left: 20%;
+
+}
+
+.modal-content{
+    width: 100%;
+    height: 100%;
+    background-color:whitesmoke;
+}
+.thead{
+    color: black !important;
+    background-color: #45b39d !important;
+    
+}
+.btn:hover{
+    background-color: #45b39d !important;
+    color: white;
+}
+.btn{
+    border: 1px solid lightgrey !important;
+    
+}
